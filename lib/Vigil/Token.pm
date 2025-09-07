@@ -5,7 +5,7 @@ use warnings;
 use 5.010;
 use MIME::Base64 qw(encode_base64);
 use Bytes::Random::Secure qw(random_bytes);
-our $VERSION = '0.03';
+our $VERSION = '1.0.3';
 use Math::BigInt;
 
 sub new { bless {}, shift }
