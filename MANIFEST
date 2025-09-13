@@ -1,0 +1,8 @@
+lib/Vigil/Token.pm
+CHANGES.txt
+LICENSE.txt
+MANIFEST
+Makefile.PL
+README.md
+t/00_compile.t
+t/01_basic.t
